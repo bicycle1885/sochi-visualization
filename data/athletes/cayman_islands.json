@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 26,
+      "birthdate": "1987-07-08T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.82,
+      "id": "dow_travers",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/40/2009240-168X210.jpg",
+      "name": "Dow Travers",
+      "weight": 91,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "cayman_islands",
+        "name": "Cayman Islands"
+      }
+    }
+  ]
+}

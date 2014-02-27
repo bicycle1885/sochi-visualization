@@ -1,0 +1,54 @@
+{
+  "object": "list",
+  "count": 2,
+  "data": [
+    {
+      "age": 48,
+      "birthdate": "1965-11-25T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.65,
+      "id": "angelica_morrone_di_silvestri",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-w-168x210.png",
+      "name": "Angelica Morrone Di Silvestri",
+      "weight": 57,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "dominica",
+        "name": "Dominica"
+      }
+    },
+    {
+      "age": 47,
+      "birthdate": "1967-02-03T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.83,
+      "id": "gary_di_silvestri",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-m-168x210.png",
+      "name": "Gary Di Silvestri",
+      "weight": 82,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "dominica",
+        "name": "Dominica"
+      }
+    }
+  ]
+}

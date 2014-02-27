@@ -1,0 +1,174 @@
+{
+  "object": "list",
+  "count": 7,
+  "data": [
+    {
+      "age": 29,
+      "birthdate": "1984-12-21T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.79,
+      "id": "alexandros_kefalas",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/99/2018199-168X210.jpg",
+      "name": "Alexandros Kefalas",
+      "weight": 80,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "skeleton",
+        "name": "Skeleton"
+      },
+      "country": {
+        "id": "greece",
+        "name": "Greece"
+      }
+    },
+    {
+      "age": 20,
+      "birthdate": "1993-06-24T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.81,
+      "id": "apostolos_angelis",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/54/2022854-168X210.jpg",
+      "name": "Apostolos Angelis",
+      "weight": 76,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "greece",
+        "name": "Greece"
+      }
+    },
+    {
+      "age": 29,
+      "birthdate": "1984-05-30T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.72,
+      "id": "kostas_sykaras",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/84/2033484-168X210.jpg",
+      "name": "Kostas Sykaras",
+      "weight": 77,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "greece",
+        "name": "Greece"
+      }
+    },
+    {
+      "age": 18,
+      "birthdate": "1995-02-12T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.83,
+      "id": "massimiliano_valcareggi",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/00/2031100-168X210.jpg",
+      "name": "Massimiliano Valcareggi",
+      "weight": 83,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "greece",
+        "name": "Greece"
+      }
+    },
+    {
+      "age": 24,
+      "birthdate": "1989-11-08T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.84,
+      "id": "nico_polychronidis",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/31/2022931-168X210.jpg",
+      "name": "Nico Polychronidis",
+      "weight": 68,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "ski_jumping",
+        "name": "Ski Jumping"
+      },
+      "country": {
+        "id": "greece",
+        "name": "Greece"
+      }
+    },
+    {
+      "age": 23,
+      "birthdate": "1990-05-12T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.7,
+      "id": "panagiota_tsakiri",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/26/2023326-168X210.jpg",
+      "name": "Panagiota Tsakiri",
+      "weight": 58,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "greece",
+        "name": "Greece"
+      }
+    },
+    {
+      "age": 25,
+      "birthdate": "1988-03-04T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.6,
+      "id": "sophia_ralli",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/93/2033493-168X210.jpg",
+      "name": "Sophia Ralli",
+      "weight": 60,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "greece",
+        "name": "Greece"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 55,
+      "birthdate": "1959-02-02T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.84,
+      "id": "hubertus_von_hohenlohe",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-m-168x210.png",
+      "name": "Hubertus Von Hohenlohe",
+      "weight": 92,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "mexico",
+        "name": "Mexico"
+      }
+    }
+  ]
+}

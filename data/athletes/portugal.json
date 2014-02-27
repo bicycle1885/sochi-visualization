@@ -1,0 +1,54 @@
+{
+  "object": "list",
+  "count": 2,
+  "data": [
+    {
+      "age": 20,
+      "birthdate": "1993-02-10T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.8,
+      "id": "arthur_hanse",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/97/2039497-168X210.jpg",
+      "name": "Arthur Hanse",
+      "weight": 75,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "portugal",
+        "name": "Portugal"
+      }
+    },
+    {
+      "age": 17,
+      "birthdate": "1996-08-28T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.65,
+      "id": "camille_dias",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/89/2039489-168X210.jpg",
+      "name": "Camille Dias",
+      "weight": 55,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "portugal",
+        "name": "Portugal"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "object": "list",
+  "count": 3,
+  "data": [
+    {
+      "age": 24,
+      "birthdate": "1989-05-19T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.81,
+      "id": "antonio_ristevski",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/45/2058845-168X210.jpg",
+      "name": "Antonio Ristevski",
+      "weight": 81,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "the_former_yugoslav_republic_of_macedonia",
+        "name": "The Former Yugoslav Republic of Macedonia"
+      }
+    },
+    {
+      "age": 32,
+      "birthdate": "1981-07-15T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.81,
+      "id": "darko_damjanovski",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/42/2058842-168X210.jpg",
+      "name": "Darko Damjanovski",
+      "weight": 73,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "the_former_yugoslav_republic_of_macedonia",
+        "name": "The Former Yugoslav Republic of Macedonia"
+      }
+    },
+    {
+      "age": 16,
+      "birthdate": "1997-09-21T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.64,
+      "id": "marija_kolaroska",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/43/2058843-168X210.jpg",
+      "name": "Marija Kolaroska",
+      "weight": 50,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "the_former_yugoslav_republic_of_macedonia",
+        "name": "The Former Yugoslav Republic of Macedonia"
+      }
+    }
+  ]
+}

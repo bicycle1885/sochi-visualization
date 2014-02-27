@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 17,
+      "birthdate": "1996-11-04T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.72,
+      "id": "michael_christian_martinez",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/53/2057053-168X210.jpg",
+      "name": "Michael Christian Martinez",
+      "weight": null,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "figure_skating",
+        "name": "Figure Skating"
+      },
+      "country": {
+        "id": "philippines",
+        "name": "Philippines"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "object": "list",
+  "count": 3,
+  "data": [
+    {
+      "age": 21,
+      "birthdate": "1992-10-18T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.68,
+      "id": "ching-yang_sung",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/55/2011755-168X210.jpg",
+      "name": "Ching-yang Sung",
+      "weight": 66,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "speed_skating",
+        "name": "Speed Skating"
+      },
+      "country": {
+        "id": "chinese_taipei",
+        "name": "Chinese Taipei"
+      }
+    },
+    {
+      "age": 21,
+      "birthdate": "1992-11-10T00:00:00.000Z",
+      "gender": "Male",
+      "height": null,
+      "id": "mackenzie_blackburn",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/55/2011855-168X210.jpg",
+      "name": "Mackenzie Blackburn",
+      "weight": null,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "short_track",
+        "name": "Short Track"
+      },
+      "country": {
+        "id": "chinese_taipei",
+        "name": "Chinese Taipei"
+      }
+    },
+    {
+      "age": 19,
+      "birthdate": "1994-10-29T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.77,
+      "id": "te-an_lien",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/05/2011905-168X210.jpg",
+      "name": "Te-an Lien",
+      "weight": 70,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "luge",
+        "name": "Luge"
+      },
+      "country": {
+        "id": "chinese_taipei",
+        "name": "Chinese Taipei"
+      }
+    }
+  ]
+}

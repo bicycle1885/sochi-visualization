@@ -1,0 +1,54 @@
+{
+  "object": "list",
+  "count": 2,
+  "data": [
+    {
+      "age": 19,
+      "birthdate": "1994-05-04T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.74,
+      "id": "alexandra_taylor",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/98/2005198-168X210.jpg",
+      "name": "Alexandra Taylor",
+      "weight": 64,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "cyprus",
+        "name": "Cyprus"
+      }
+    },
+    {
+      "age": 20,
+      "birthdate": "1993-09-06T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.65,
+      "id": "constantinos_papamichael",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/50/2005150-168X210.jpg",
+      "name": "Constantinos Papamichael",
+      "weight": 61,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "cyprus",
+        "name": "Cyprus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "object": "list",
+  "count": 5,
+  "data": [
+    {
+      "age": 24,
+      "birthdate": "1989-03-10T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.98,
+      "id": "brynjar_jokull_gudmundsson",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/20/2036720-168X210.jpg",
+      "name": "Brynjar Jokull Gudmundsson",
+      "weight": 107,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "iceland",
+        "name": "Iceland"
+      }
+    },
+    {
+      "age": 20,
+      "birthdate": "1994-01-03T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.85,
+      "id": "einar_kristinn_kristgeirsson",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/28/2036728-168X210.jpg",
+      "name": "Einar Kristinn Kristgeirsson",
+      "weight": 94,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "iceland",
+        "name": "Iceland"
+      }
+    },
+    {
+      "age": 20,
+      "birthdate": "1994-01-27T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.74,
+      "id": "erla_asgeirsdottir",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/52/2036752-168X210.jpg",
+      "name": "Erla Asgeirsdottir",
+      "weight": null,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "iceland",
+        "name": "Iceland"
+      }
+    },
+    {
+      "age": 18,
+      "birthdate": "1995-04-25T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.71,
+      "id": "helga_maria_vilhjalmsdottir",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/55/2036755-168X210.jpg",
+      "name": "Helga Maria Vilhjalmsdottir",
+      "weight": null,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "iceland",
+        "name": "Iceland"
+      }
+    },
+    {
+      "age": 25,
+      "birthdate": "1988-02-15T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.75,
+      "id": "saevar_birgisson",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/37/2036437-168X210.jpg",
+      "name": "Saevar Birgisson",
+      "weight": null,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "iceland",
+        "name": "Iceland"
+      }
+    }
+  ]
+}

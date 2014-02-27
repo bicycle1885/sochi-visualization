@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 28,
+      "birthdate": "1986-01-11T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.6,
+      "id": "alisher_qudratov",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/09/2028909-168X210.jpg",
+      "name": "Alisher Qudratov",
+      "weight": 65,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "tajikistan",
+        "name": "Tajikistan"
+      }
+    }
+  ]
+}

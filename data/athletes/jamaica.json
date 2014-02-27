@@ -1,0 +1,78 @@
+{
+  "object": "list",
+  "count": 3,
+  "data": [
+    {
+      "age": 30,
+      "birthdate": "1983-09-09T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.75,
+      "id": "marvin_dixon",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/50/2068650-168X210.jpg",
+      "name": "Marvin Dixon",
+      "weight": 93,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "bobsleigh",
+        "name": "Bobsleigh"
+      },
+      "country": {
+        "id": "jamaica",
+        "name": "Jamaica"
+      }
+    },
+    {
+      "age": 44,
+      "birthdate": "1969-07-28T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.75,
+      "id": "wayne_blackwood",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/74/2068674-168X210.jpg",
+      "name": "Wayne Blackwood",
+      "weight": 95,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "bobsleigh",
+        "name": "Bobsleigh"
+      },
+      "country": {
+        "id": "jamaica",
+        "name": "Jamaica"
+      }
+    },
+    {
+      "age": 46,
+      "birthdate": "1967-12-08T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.82,
+      "id": "winston_watts",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/75/2068675-168X210.jpg",
+      "name": "Winston Watts",
+      "weight": 107,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "bobsleigh",
+        "name": "Bobsleigh"
+      },
+      "country": {
+        "id": "jamaica",
+        "name": "Jamaica"
+      }
+    }
+  ]
+}

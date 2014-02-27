@@ -1,0 +1,54 @@
+{
+  "object": "list",
+  "count": 2,
+  "data": [
+    {
+      "age": 18,
+      "birthdate": "1995-08-01T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.68,
+      "id": "alessia_afi_dipol",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-w-168x210.png",
+      "name": "Alessia Afi Dipol",
+      "weight": 58,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "togo",
+        "name": "Togo"
+      }
+    },
+    {
+      "age": 19,
+      "birthdate": "1994-02-19T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.63,
+      "id": "mathilde_amivi_petitjean",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-w-168x210.png",
+      "name": "Mathilde Amivi Petitjean",
+      "weight": 60,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "togo",
+        "name": "Togo"
+      }
+    }
+  ]
+}

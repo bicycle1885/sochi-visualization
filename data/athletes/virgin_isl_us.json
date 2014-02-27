@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 22,
+      "birthdate": "1991-08-11T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.7,
+      "id": "jasmine_campbell",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/98/2038498-168X210.jpg",
+      "name": "Jasmine Campbell",
+      "weight": 64,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "virgin_isl_us",
+        "name": "Virgin Isl, US"
+      }
+    }
+  ]
+}

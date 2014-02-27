@@ -1,0 +1,54 @@
+{
+  "object": "list",
+  "count": 2,
+  "data": [
+    {
+      "age": 21,
+      "birthdate": "1992-02-13T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.7,
+      "id": "kanes_sucharitakul",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/87/2033487-168X210.jpg",
+      "name": "Kanes Sucharitakul",
+      "weight": 67,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "thailand",
+        "name": "Thailand"
+      }
+    },
+    {
+      "age": 35,
+      "birthdate": "1978-10-27T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.58,
+      "id": "vanessa_vanakorn",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/57/2037457-168X210.jpg",
+      "name": "Vanessa Vanakorn",
+      "weight": 55,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "thailand",
+        "name": "Thailand"
+      }
+    }
+  ]
+}

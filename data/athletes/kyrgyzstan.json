@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 19,
+      "birthdate": "1994-10-16T00:00:00.000Z",
+      "gender": "Male",
+      "height": null,
+      "id": "evgeniy_timofeev",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/44/2062744-168X210.jpg",
+      "name": "Evgeniy Timofeev",
+      "weight": null,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "kyrgyzstan",
+        "name": "Kyrgyzstan"
+      }
+    }
+  ]
+}

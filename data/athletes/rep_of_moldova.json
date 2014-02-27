@@ -1,0 +1,102 @@
+{
+  "object": "list",
+  "count": 4,
+  "data": [
+    {
+      "age": 25,
+      "birthdate": "1988-08-28T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.58,
+      "id": "alexandra_camenscic",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/90/2048090-168X210.jpg",
+      "name": "Alexandra Camenscic",
+      "weight": 55,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "rep_of_moldova",
+        "name": "Rep. of Moldova"
+      }
+    },
+    {
+      "age": 31,
+      "birthdate": "1983-01-28T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.72,
+      "id": "bogdan_macovei",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/91/2048091-168X210.jpg",
+      "name": "Bogdan Macovei",
+      "weight": 70,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "luge",
+        "name": "Luge"
+      },
+      "country": {
+        "id": "rep_of_moldova",
+        "name": "Rep. of Moldova"
+      }
+    },
+    {
+      "age": 31,
+      "birthdate": "1983-01-20T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.75,
+      "id": "georg_lindner",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/96/2048096-168X210.jpg",
+      "name": "Georg Lindner",
+      "weight": 87,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "rep_of_moldova",
+        "name": "Rep. of Moldova"
+      }
+    },
+    {
+      "age": 21,
+      "birthdate": "1992-02-11T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.86,
+      "id": "victor_pinzaru",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/92/2048092-168X210.jpg",
+      "name": "Victor Pinzaru",
+      "weight": 84,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "rep_of_moldova",
+        "name": "Rep. of Moldova"
+      }
+    }
+  ]
+}

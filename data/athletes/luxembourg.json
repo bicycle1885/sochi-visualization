@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 28,
+      "birthdate": "1985-11-17T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.83,
+      "id": "kari_peters",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/97/2035597-168X210.jpg",
+      "name": "Kari Peters",
+      "weight": 78,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "luxembourg",
+        "name": "Luxembourg"
+      }
+    }
+  ]
+}

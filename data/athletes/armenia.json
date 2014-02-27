@@ -1,0 +1,102 @@
+{
+  "object": "list",
+  "count": 4,
+  "data": [
+    {
+      "age": 26,
+      "birthdate": "1987-04-09T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.76,
+      "id": "arman_serebrakian",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/28/2020228-168X210.jpg",
+      "name": "Arman Serebrakian",
+      "weight": 76,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "armenia",
+        "name": "Armenia"
+      }
+    },
+    {
+      "age": 23,
+      "birthdate": "1990-09-14T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.8,
+      "id": "artur_yeghoyan",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/77/2075277-168X210.jpg",
+      "name": "Artur Yeghoyan",
+      "weight": 83,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "armenia",
+        "name": "Armenia"
+      }
+    },
+    {
+      "age": 21,
+      "birthdate": "1993-01-01T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.63,
+      "id": "katya_galstyan",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-w-168x210.png",
+      "name": "Katya Galstyan",
+      "weight": 57,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "armenia",
+        "name": "Armenia"
+      }
+    },
+    {
+      "age": 21,
+      "birthdate": "1992-04-27T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.84,
+      "id": "sergey_mikayelyan",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/55/2000855-168X210.jpg",
+      "name": "Sergey Mikayelyan",
+      "weight": 73,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "armenia",
+        "name": "Armenia"
+      }
+    }
+  ]
+}

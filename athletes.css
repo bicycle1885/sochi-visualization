@@ -1,0 +1,152 @@
+#map {
+    width: 960px;
+    margin: 0 auto;
+    z-index: 0;
+}
+
+#title {
+    font-size: 25px;
+}
+
+#infotip {
+    width: 180px;
+    padding: 0;
+}
+
+#infotip .container {
+    width: 160px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#infotip .container img {
+    width: 160px;
+}
+
+#infotip .container dl {
+    margin-top: 10px;
+}
+
+#infotip .container dt {
+    float: left;
+    clear: left;
+    width: 60px;
+    text-align: right;
+    font-weight: bold;
+}
+
+#infotip .container dt:after {
+    content: ":";
+}
+
+#infotip .container dd {
+    text-align: left;
+    padding-left: 80px;
+}
+
+.background {
+    fill: white;
+}
+
+.map .country {
+    fill: #D0BDEA;
+    stroke: white;
+    stroke-width: 1;
+}
+
+.map .country:hover, .country.focused {
+    fill: #9166CF;
+}
+
+.map .country.inactive {
+    fill: #d4d4d4;
+}
+
+.country-name {
+    font-size: 25px;
+}
+
+.labels .label {
+    font-weight: bold;
+    text-anchor: middle;
+    font-size: 23px;
+}
+
+.athletes .athlete {
+    fill: #F5F5DC;
+    fill-opacity: 0.7;
+    stroke: black;
+    stroke-width: 2;
+}
+
+.athletes, #infotip .gold {
+    fill: #ffd700;
+}
+
+.athletes, #infotip .silver {
+    fill: #c0c0c0;
+}
+
+.athletes, #infotip .bronze {
+    fill: #cd7f32;
+}
+
+.athletes .non-medal {
+    fill: #F5F5DC;
+}
+
+.athletes .male {
+    fill: #4682b4;
+}
+
+.athletes .female {
+    fill: #b44646;
+}
+
+.control {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.split-btn {
+    float: left;
+    background: white;
+    width: 80px;
+}
+
+.toggle-btn-grp {
+    margin: 3px 0;
+}
+
+.toggle-btn { 
+    text-align: center;
+    color: #000;
+    display: inline-block;
+    border: solid 1px #CCC;
+    cursor:pointer;
+}
+
+.toggle-btn:hover {
+    background-color: #f0f3e2;
+}
+
+.toggle-btn-active, .toggle-btn-active:hover {
+    background-color: #c6d293;
+}
+
+.toggle-btn-grp.joint-toggle .toggle-btn {
+    margin: 0 0 0 -1px;
+    padding: 0.4em 1em;
+    border-radius: 0;
+}
+
+.toggle-btn-grp.joint-toggle .toggle-btn:first-child {
+    margin-left: 2px;
+    border-radius: 3px 0px 0px 3px;
+}
+
+.toggle-btn-grp.joint-toggle .toggle-btn:last-child {
+    margin-right: 2px;
+    border-radius: 0px 3px 3px 0px;
+    border-right: solid 1px #CCC;
+}

@@ -1,0 +1,54 @@
+{
+  "object": "list",
+  "count": 2,
+  "data": [
+    {
+      "age": 18,
+      "birthdate": "1995-04-22T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.7,
+      "id": "adam_lamhamedi",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-m-168x210.png",
+      "name": "Adam Lamhamedi",
+      "weight": 76,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "morocco",
+        "name": "Morocco"
+      }
+    },
+    {
+      "age": 18,
+      "birthdate": "1996-02-06T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.66,
+      "id": "kenza_tazi",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/26/2002226-168X210.jpg",
+      "name": "Kenza Tazi",
+      "weight": 60,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "morocco",
+        "name": "Morocco"
+      }
+    }
+  ]
+}

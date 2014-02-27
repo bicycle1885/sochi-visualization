@@ -1,0 +1,54 @@
+{
+  "object": "list",
+  "count": 2,
+  "data": [
+    {
+      "age": 19,
+      "birthdate": "1994-10-12T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.78,
+      "id": "ivana_bulatovic",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-w-168x210.png",
+      "name": "Ivana Bulatovic",
+      "weight": 68,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "montenegro",
+        "name": "Montenegro"
+      }
+    },
+    {
+      "age": 19,
+      "birthdate": "1994-03-17T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.8,
+      "id": "tarik_hadzic",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/67/2006067-168X210.jpg",
+      "name": "Tarik Hadzic",
+      "weight": 75,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "montenegro",
+        "name": "Montenegro"
+      }
+    }
+  ]
+}

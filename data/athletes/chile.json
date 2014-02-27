@@ -1,0 +1,150 @@
+{
+  "object": "list",
+  "count": 6,
+  "data": [
+    {
+      "age": 18,
+      "birthdate": "1995-12-19T00:00:00.000Z",
+      "gender": "Female",
+      "height": null,
+      "id": "dominique_ohaco",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/07/2000707-168X210.jpg",
+      "name": "Dominique Ohaco",
+      "weight": null,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "freestyle_skiing",
+        "name": "Freestyle Skiing"
+      },
+      "country": {
+        "id": "chile",
+        "name": "Chile"
+      }
+    },
+    {
+      "age": 20,
+      "birthdate": "1993-09-23T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.75,
+      "id": "eugenio_claro",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-m-168x210.png",
+      "name": "Eugenio Claro",
+      "weight": 71,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "chile",
+        "name": "Chile"
+      }
+    },
+    {
+      "age": 19,
+      "birthdate": "1994-12-15T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.85,
+      "id": "henrik_von_appen",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-m-168x210.png",
+      "name": "Henrik Von Appen",
+      "weight": 72,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "chile",
+        "name": "Chile"
+      }
+    },
+    {
+      "age": 23,
+      "birthdate": "1990-11-30T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.72,
+      "id": "noelle_barahona",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-w-168x210.png",
+      "name": "Noelle Barahona",
+      "weight": 70,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "chile",
+        "name": "Chile"
+      }
+    },
+    {
+      "age": 22,
+      "birthdate": "1991-09-12T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.73,
+      "id": "stephanie_joffroy",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-w-168x210.png",
+      "name": "Stephanie Joffroy",
+      "weight": 73,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "freestyle_skiing",
+        "name": "Freestyle Skiing"
+      },
+      "country": {
+        "id": "chile",
+        "name": "Chile"
+      }
+    },
+    {
+      "age": 27,
+      "birthdate": "1986-04-14T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.9,
+      "id": "yonathan_jesus_fernandez",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-m-168x210.png",
+      "name": "Yonathan Jesus Fernandez",
+      "weight": 86,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "chile",
+        "name": "Chile"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "object": "list",
+  "count": 3,
+  "data": [
+    {
+      "age": 20,
+      "birthdate": "1993-03-26T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.85,
+      "id": "artem_voronov",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/85/2003385-168X210.jpg",
+      "name": "Artem Voronov",
+      "weight": 75,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan"
+      }
+    },
+    {
+      "age": 26,
+      "birthdate": "1987-11-25T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.7,
+      "id": "kseniya_grigoreva",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/07/2003407-168X210.jpg",
+      "name": "Kseniya Grigoreva",
+      "weight": 65,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan"
+      }
+    },
+    {
+      "age": 22,
+      "birthdate": "1991-05-17T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.73,
+      "id": "misha_ge",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/53/2003753-168X210.jpg",
+      "name": "Misha Ge",
+      "weight": null,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "figure_skating",
+        "name": "Figure Skating"
+      },
+      "country": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan"
+      }
+    }
+  ]
+}

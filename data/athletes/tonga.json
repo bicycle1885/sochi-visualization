@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 26,
+      "birthdate": "1987-12-04T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.84,
+      "id": "bruno_banani",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-m-168x210.png",
+      "name": "Bruno Banani",
+      "weight": 89,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "luge",
+        "name": "Luge"
+      },
+      "country": {
+        "id": "tonga",
+        "name": "Tonga"
+      }
+    }
+  ]
+}

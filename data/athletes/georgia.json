@@ -1,0 +1,102 @@
+{
+  "object": "list",
+  "count": 4,
+  "data": [
+    {
+      "age": 22,
+      "birthdate": "1991-02-08T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.84,
+      "id": "alex_beniaidze",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/21/2041621-168X210.jpg",
+      "name": "Alex Beniaidze",
+      "weight": 80,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "georgia",
+        "name": "Georgia"
+      }
+    },
+    {
+      "age": 24,
+      "birthdate": "1990-01-07T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.6,
+      "id": "elene_gedevanishvili",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/18/2041618-168X210.jpg",
+      "name": "Elene Gedevanishvili",
+      "weight": null,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "figure_skating",
+        "name": "Figure Skating"
+      },
+      "country": {
+        "id": "georgia",
+        "name": "Georgia"
+      }
+    },
+    {
+      "age": 25,
+      "birthdate": "1988-04-26T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.82,
+      "id": "iason_abramashvili",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/13/2041613-168X210.jpg",
+      "name": "Iason Abramashvili",
+      "weight": 76,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "georgia",
+        "name": "Georgia"
+      }
+    },
+    {
+      "age": 20,
+      "birthdate": "1993-07-01T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.67,
+      "id": "nino_tsiklauri",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/04/2042204-168X210.jpg",
+      "name": "Nino Tsiklauri",
+      "weight": 56,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "georgia",
+        "name": "Georgia"
+      }
+    }
+  ]
+}

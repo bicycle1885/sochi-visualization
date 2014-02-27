@@ -1,0 +1,54 @@
+{
+  "object": "list",
+  "count": 2,
+  "data": [
+    {
+      "age": 22,
+      "birthdate": "1991-04-06T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.7,
+      "id": "byambadorj_bold",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-m-168x210.png",
+      "name": "Byambadorj Bold",
+      "weight": 66,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "mongolia",
+        "name": "Mongolia"
+      }
+    },
+    {
+      "age": 22,
+      "birthdate": "1991-04-30T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.63,
+      "id": "otgontsetseg_chinbat",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-w-168x210.png",
+      "name": "Otgontsetseg Chinbat",
+      "weight": 56,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "mongolia",
+        "name": "Mongolia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "object": "list",
+  "count": 5,
+  "data": [
+    {
+      "age": 22,
+      "birthdate": "1991-02-27T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.86,
+      "id": "igor_laikert",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/71/2035171-168X210.jpg",
+      "name": "Igor Laikert",
+      "weight": 87,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "bosnia_and_herzegovina",
+        "name": "Bosnia and Herzegovina"
+      }
+    },
+    {
+      "age": 24,
+      "birthdate": "1990-01-17T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.87,
+      "id": "marko_rudic",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/82/2035282-168X210.jpg",
+      "name": "Marko Rudic",
+      "weight": 81,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "bosnia_and_herzegovina",
+        "name": "Bosnia and Herzegovina"
+      }
+    },
+    {
+      "age": 22,
+      "birthdate": "1991-09-25T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.85,
+      "id": "mladen_plakalovic",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/61/2035561-168X210.jpg",
+      "name": "Mladen Plakalovic",
+      "weight": 85,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "bosnia_and_herzegovina",
+        "name": "Bosnia and Herzegovina"
+      }
+    },
+    {
+      "age": 22,
+      "birthdate": "1991-07-23T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.69,
+      "id": "tanja_karisik",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/91/2035691-168X210.jpg",
+      "name": "Tanja Karisik",
+      "weight": 53,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "bosnia_and_herzegovina",
+        "name": "Bosnia and Herzegovina"
+      }
+    },
+    {
+      "age": 28,
+      "birthdate": "1985-06-24T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.64,
+      "id": "zana_novakovic",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/99/2035199-168X210.jpg",
+      "name": "Zana Novakovic",
+      "weight": 58,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "bosnia_and_herzegovina",
+        "name": "Bosnia and Herzegovina"
+      }
+    }
+  ]
+}

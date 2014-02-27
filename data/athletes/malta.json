@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 22,
+      "birthdate": "1991-05-07T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.62,
+      "id": "elise_pellegrin",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/49/2011549-168X210.jpg",
+      "name": "Elise Pellegrin",
+      "weight": 58,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "malta",
+        "name": "Malta"
+      }
+    }
+  ]
+}

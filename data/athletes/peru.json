@@ -1,0 +1,78 @@
+{
+  "object": "list",
+  "count": 3,
+  "data": [
+    {
+      "age": 20,
+      "birthdate": "1993-10-23T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.65,
+      "id": "manfred_oettl_reyes",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/73/2067373-168X210.jpg",
+      "name": "Manfred Oettl Reyes",
+      "weight": 60,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "peru",
+        "name": "Peru"
+      }
+    },
+    {
+      "age": 22,
+      "birthdate": "1991-12-14T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.68,
+      "id": "ornella_oettl_reyes",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/74/2067374-168X210.jpg",
+      "name": "Ornella Oettl Reyes",
+      "weight": 60,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "peru",
+        "name": "Peru"
+      }
+    },
+    {
+      "age": 43,
+      "birthdate": "1970-09-08T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.74,
+      "id": "roberto_carcelen",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/66/2067366-168X210.jpg",
+      "name": "Roberto Carcelen",
+      "weight": 64,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "peru",
+        "name": "Peru"
+      }
+    }
+  ]
+}

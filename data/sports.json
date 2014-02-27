@@ -1,0 +1,81 @@
+{
+  "object": "list",
+  "count": 15,
+  "data": [
+    {
+      "id": "alpine_skiing",
+      "name": "Alpine Skiing",
+      "type": "individual"
+    },
+    {
+      "id": "biathlon",
+      "name": "Biathlon",
+      "type": "individual"
+    },
+    {
+      "id": "bobsleigh",
+      "name": "Bobsleigh",
+      "type": "individual"
+    },
+    {
+      "id": "cross-country",
+      "name": "Cross-Country",
+      "type": "individual"
+    },
+    {
+      "id": "curling",
+      "name": "Curling",
+      "type": "team"
+    },
+    {
+      "id": "figure_skating",
+      "name": "Figure Skating",
+      "type": "individual"
+    },
+    {
+      "id": "freestyle_skiing",
+      "name": "Freestyle Skiing",
+      "type": "individual"
+    },
+    {
+      "id": "ice_hockey",
+      "name": "Ice Hockey",
+      "type": "team"
+    },
+    {
+      "id": "luge",
+      "name": "Luge",
+      "type": "individual"
+    },
+    {
+      "id": "nordic_combined",
+      "name": "Nordic Combined",
+      "type": "individual"
+    },
+    {
+      "id": "short_track",
+      "name": "Short Track",
+      "type": "individual"
+    },
+    {
+      "id": "skeleton",
+      "name": "Skeleton",
+      "type": "individual"
+    },
+    {
+      "id": "ski_jumping",
+      "name": "Ski Jumping",
+      "type": "individual"
+    },
+    {
+      "id": "snowboard",
+      "name": "Snowboard",
+      "type": "individual"
+    },
+    {
+      "id": "speed_skating",
+      "name": "Speed Skating",
+      "type": "individual"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Visualization of the Sochi 2014 Winter Olympics</title>
+        <script type="text/javascript" src="lib/jquery-2.1.0.min.js"></script>
+        <script type="text/javascript" src="lib/underscore-min.js"></script>
+        <script type="text/javascript" src="d3/d3.js"></script>
+        <script type="text/javascript" src="d3/topojson.js"></script>
+        <script type="text/javascript" src="d3/queue.v1.min.js"></script>
+        <script type="text/javascript" src="button.js"></script>
+        <script type="text/javascript" src="athletes.js"></script>
+        <link rel="stylesheet" type="test/css" href="reset.css">
+        <link rel="stylesheet" type="test/css" href="common.css">
+        <link rel="stylesheet" type="test/css" href="athletes.css">
+    </head>
+    <body>
+        <script type="text/template" id="athlete_tip">
+            <div class="container">
+                <img src="<%= image %>" alt="<%= name %>">
+                <div class="athlete-medals">
+                    <% _.each(_.keys(medals), function(m) { %>
+                        <% if (m !== "total") { %>
+                            <% var i; %>
+                            <% for (i = 0; i < medals[m]; i++) { %>
+                                <svg width="12" height="12">
+                                    <circle r="6" cx="6" cy="6" class="<%= m %>"></circle>
+                                </svg>
+                            <% } %>
+                        <% } %>
+                    <% }); %>
+                </div>
+                <span><%= name %></span>
+                <dl>
+                    <dt>Age</dt><dd><%= age %></dd>
+                    <dt>Sport</dt><dd><%= sport.name %></dd>
+                    <dt>Height</dt><dd><%= height * 100 %>cm</dd>
+                </dl>
+            </div>
+        </script>
+        <div id="infotip" class="hidden">
+        </div>
+        <div class="control">
+            <div class="toggle-btn-grp joint-toggle">
+                <p class="split-btn split-none toggle-btn toggle-btn-active">No cleavage</p>
+                <p class="split-btn split-medals toggle-btn">Medal</p>
+                <p class="split-btn split-gender toggle-btn">Gender</p>
+                <p class="split-btn split-age toggle-btn">Age</p>
+                <p class="split-btn split-sport toggle-btn">Sport</p>
+            </div>
+        </div>
+        <div id="map">
+        </div>
+        <p id="title">Visualization of the Sochi 2014 Winter Olympics</p>
+    </body>
+</html>

@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 21,
+      "birthdate": "1992-04-14T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.6,
+      "id": "julia_marino",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-w-168x210.png",
+      "name": "Julia Marino",
+      "weight": 66,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "freestyle_skiing",
+        "name": "Freestyle Skiing"
+      },
+      "country": {
+        "id": "paraguay",
+        "name": "Paraguay"
+      }
+    }
+  ]
+}

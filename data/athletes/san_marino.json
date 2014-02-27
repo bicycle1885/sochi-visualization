@@ -1,0 +1,54 @@
+{
+  "object": "list",
+  "count": 2,
+  "data": [
+    {
+      "age": 17,
+      "birthdate": "1996-06-07T00:00:00.000Z",
+      "gender": "Female",
+      "height": 1.66,
+      "id": "federica_selva",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/12/2041712-168X210.jpg",
+      "name": "Federica Selva",
+      "weight": 53,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "san_marino",
+        "name": "San Marino"
+      }
+    },
+    {
+      "age": 17,
+      "birthdate": "1996-11-13T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.71,
+      "id": "vincenzo_romano_michelotti",
+      "image": "http://gtcdn.sochi2014.com/athlete/a/85/2041685-168X210.jpg",
+      "name": "Vincenzo Romano Michelotti",
+      "weight": 58,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "alpine_skiing",
+        "name": "Alpine Skiing"
+      },
+      "country": {
+        "id": "san_marino",
+        "name": "San Marino"
+      }
+    }
+  ]
+}

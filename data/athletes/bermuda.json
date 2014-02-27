@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "count": 1,
+  "data": [
+    {
+      "age": 32,
+      "birthdate": "1981-10-21T00:00:00.000Z",
+      "gender": "Male",
+      "height": 1.93,
+      "id": "tucker_murphy",
+      "image": "http://gtcdn.sochi2014.com/content/4.4/i/athlete/athlete-m-168x210.png",
+      "name": "Tucker Murphy",
+      "weight": 83,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "sport": {
+        "id": "cross-country",
+        "name": "Cross-Country"
+      },
+      "country": {
+        "id": "bermuda",
+        "name": "Bermuda"
+      }
+    }
+  ]
+}
